@@ -639,6 +639,11 @@ textarea {
 
 .home-link {
   text-align: center;
+  padding: 10px 20px;
+  background: #333;
+  width: 140px;
+  margin: 0 auto;
+  border: 1px solid #fff;
 }
 
 .home-link a {
