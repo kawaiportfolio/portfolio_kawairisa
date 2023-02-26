@@ -397,6 +397,7 @@ opacity:0;
 
 .works-list {
   display: flex;
+　align-items: flex-start;
   flex-wrap: wrap;
   margin-bottom: -40px;
 }
@@ -459,6 +460,7 @@ opacity:0;
 .skill-list {
   display: flex;
   flex-wrap: wrap;
+　align-items: flex-start;
   justify-content: space-between;
   margin-bottom: -50px;
 }
