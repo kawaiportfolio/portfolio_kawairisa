@@ -651,7 +651,7 @@ textarea {
 }
 
 .home-link:hover {
-  color: #333;
+  opacity: 0.7;
 }
 
 /*media Queries 767
