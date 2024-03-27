@@ -367,7 +367,7 @@ opacity:0;
 
 .profile_pic {
   width: 35%;
-  align-self: flex-bottom;
+  align-self: flex-end;
 }
 
 .profile-title {
