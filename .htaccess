@@ -1,4 +1,3 @@
 AuthType Basic
 AuthName "Input your ID and Password."
-AuthUserFile /home/kawaiportfolio.github.io/english_ver_portfolio/index.html/.htpasswd
-require valid-user
+AuthUserFile /kawaiportfolio.github.io/english_ver_portfolio/index.html/.htpasswd
