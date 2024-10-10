@@ -1,8 +1,4 @@
-AuthUserFile /home/path../.htpasswd
-AuthGroupFile /dev/null
-AuthName "Input ID and Password."
-AuthType Basic
+AuthType     Basic
+AuthName     "Input ID and Password."
+AuthUserFile /kawaiportfolio/portfolio_kawairisa/.htpasswd
 require valid-user
-<Files ~ "^.(htpasswd|htaccess)$">
-deny from all
-</Files>
