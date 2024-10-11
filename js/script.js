@@ -47,14 +47,6 @@ bar.animate(1.0, function () {//バーを描画する割合を指定します 1.
 	$("#splash").delay(500).fadeOut(800);//アニメーションが終わったら#splashエリアをフェードアウト
 });  
 
-//サイトパスポップ
-var pw;
-pw = prompt("パスワードを入力して下さい🙇‍♀️","");
-if (pw != "kawaisite0429")
-location.href = pw+"https://kawaiportfolio.github.io/portfolio_kawairisa/";
-}else{
-alert("パスワードが違います💦");
-}
   //ページ内スクロール
   var $nav = $(".header");
   var navHeight = $nav.outerHeight();
